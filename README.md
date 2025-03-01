@@ -12,6 +12,8 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 ### 1️⃣ Monthly View  
 **Objective:** Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.  
 
+![monthly_view](pictures/monthly_view.png)
+
 📊 **Charts & KPIs:**  
 - **Patient Admission Status**: Track admitted vs. non-admitted patients.  
 - **Patient Age Distribution**: Group patients by 10-year age intervals.  
@@ -26,6 +28,8 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 ### 2️⃣ Consolidated View  
 **Objective:** Provide a **holistic summary** of hospital performance for a selected date range.  
 
+![consolidated_view](pictures/consolidated_view.png)
+
 📊 **Charts & KPIs:**  
 - Similar to the **Monthly View**, but aggregated over a customizable date range for broader insights and trend analysis.  
 
@@ -33,6 +37,8 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 
 ### 3️⃣ Patients Details  
 **Objective:** Offer **granular insights** into patient-level data to enable detailed analysis and troubleshooting.  
+
+![patient_details](pictures/patient_details.png)
 
 📊 **Key Fields:**  
 - **Patient ID**  
