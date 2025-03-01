@@ -1,13 +1,13 @@
-# EMERGENCY-ROOM-DASHBOARD
-# 📊 Hospital Emergency Room Dashboard  
 
-## 🚀 Overview  
+# HOSPITAL EMERGENCY ROOM DASHBOARD  
+
+## Overview  
 This Power BI project provides a **comprehensive analysis** of hospital emergency room data. It consists of **three dashboards** that offer insights at different levels: **Monthly Trends, Consolidated Overview, and Patient Details**.  
 
-## 🏥 Dashboards  
+## Dashboards  
 
 ### 1️⃣ Monthly View  
-**🎯 Objective:** Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.  
+**Objective:** Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.  
 
 📊 **Charts & KPIs:**  
 - **Patient Admission Status**: Track admitted vs. non-admitted patients.  
@@ -21,7 +21,7 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 ---
 
 ### 2️⃣ Consolidated View  
-**🎯 Objective:** Provide a **holistic summary** of hospital performance for a selected date range.  
+**Objective:** Provide a **holistic summary** of hospital performance for a selected date range.  
 
 📊 **Charts & KPIs:**  
 - Similar to the **Monthly View**, but aggregated over a customizable date range for broader insights and trend analysis.  
@@ -29,7 +29,7 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 ---
 
 ### 3️⃣ Patients Details  
-**🎯 Objective:** Offer **granular insights** into patient-level data to enable detailed analysis and troubleshooting.  
+**Objective:** Offer **granular insights** into patient-level data to enable detailed analysis and troubleshooting.  
 
 📊 **Key Fields:**  
 - **Patient ID**  
