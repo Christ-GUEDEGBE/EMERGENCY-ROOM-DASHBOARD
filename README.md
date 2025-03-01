@@ -55,7 +55,8 @@ This Power BI project provides a **comprehensive analysis** of hospital emergenc
 
 ## 📁 Data Dictionary & Project Files  
 For a detailed description of the KPIs and dataset columns, or the pbix file itself, refer to the **Data Terminology document**:  
-📎 [Folder](https://drive.google.com/drive/folders/1aD0vflzZGzssbqZtI8PoUsVJCmiqEeh7?usp=sharing)   
+📎 [Folder](https://drive.google.com/drive/folders/1aD0vflzZGzssbqZtI8PoUsVJCmiqEeh7?usp=sharing)  
+The original data, and the tutorial that helped me is provided by the youtube channel Data Tutorials here:  [Data_Tutorials](https://www.youtube.com/@datatutorials1)
 
 ---
 
