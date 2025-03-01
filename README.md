@@ -4,7 +4,8 @@
 ## Overview  
 This Power BI project provides a **comprehensive analysis** of hospital emergency room data. It consists of **three dashboards** that offer insights at different levels: **Monthly Trends, Consolidated Overview, and Patient Details**.  
 
-![Dashboard]()
+![er_dashboard](pictures/er_dashboard.gif)
+
 
 ## Dashboards  
 
